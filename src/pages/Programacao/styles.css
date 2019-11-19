@@ -1,0 +1,29 @@
+.container {
+    width: 70%;
+}
+
+.container .yellowDiv {
+    height: 5px;
+    background-color: #ffea00;
+}
+
+.container .blueDiv {
+    height: 10px;
+    background-color: #009ade;
+}
+
+.container .scheduleDay {
+    height: 50px;
+    background-color: #009ade;
+}
+
+.container .scheduleDay .weekDay {
+    font-size: 30px;
+    color: #fff;
+}
+
+.container .slider-container {
+    width: 100%;
+    height: 100px;
+    background-color: #ec0080;
+}

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa2654d8.chunk.css",
+    "main.js": "/static/js/main.1bb4fdc4.chunk.js",
+    "main.js.map": "/static/js/main.1bb4fdc4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21853cd5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21853cd5.js.map",
+    "static/js/2.5c7ee1ac.chunk.js": "/static/js/2.5c7ee1ac.chunk.js",
+    "static/js/2.5c7ee1ac.chunk.js.map": "/static/js/2.5c7ee1ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d7525adafb8ccfe13c9c4ba5b125cdb.js": "/precache-manifest.9d7525adafb8ccfe13c9c4ba5b125cdb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fa2654d8.chunk.css.map": "/static/css/main.fa2654d8.chunk.css.map",
+    "static/media/clarencio.png": "/static/media/clarencio.0c1cad0b.png",
+    "static/media/gumball.png": "/static/media/gumball.f337260e.png",
+    "static/media/logo.png": "/static/media/logo.82a80b6e.png",
+    "static/media/meninaspoderosas.png": "/static/media/meninaspoderosas.6e3fe16e.png",
+    "static/media/regularShow.png": "/static/media/regularShow.57a718af.png",
+    "static/media/rigby.png": "/static/media/rigby.e4f1182e.png",
+    "static/media/samurai.png": "/static/media/samurai.aa022191.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21853cd5.js",
+    "static/js/2.5c7ee1ac.chunk.js",
+    "static/css/main.fa2654d8.chunk.css",
+    "static/js/main.1bb4fdc4.chunk.js"
+  ]
+}

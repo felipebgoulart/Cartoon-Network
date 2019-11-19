@@ -1,0 +1,60 @@
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 200px;
+    background-color: #000000;
+}
+
+footer .footer-desc {
+    background-color: #4c4c4c;
+    height: 140px;
+}
+
+footer .footer-desc .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+footer .footer-desc .logoCN {
+    height: 60px;
+    width: 80px;
+}
+
+footer .footer-desc .logoCN img{
+    height: 100%;
+    width: 100%;
+}
+
+footer .footer-helps {
+    background-color: #000000;
+    height: 70px;
+}
+
+footer .footer-helps ul {
+    list-style: none;
+    text-align: center;
+}
+
+footer .footer-helps ul li {
+    float: left;
+    color: rgb(180, 180, 180);
+    margin-left: 50px;
+    padding-top: 10px;
+}
+
+footer .footer-helps ul li a {
+    text-decoration: none;
+    color: rgb(180, 180, 180);
+}
+
+footer .footer-helps ul li a:hover {
+    text-decoration: none;
+    color: #009ade;
+}
+
+footer .footer-text {
+    font-size: 10px;
+    color: rgb(179, 177, 177);
+}

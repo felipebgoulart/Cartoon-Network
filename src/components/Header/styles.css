@@ -1,0 +1,48 @@
+.navbar {
+    background-color: #000000;
+}
+
+.navbar .titleTop{
+    color: #fff;
+    text-align: right;
+}
+
+.navbar .titleTop .hour {
+    font-size: 26px;
+}
+
+.navbar .titleTop .title {
+    font-size: 10px;
+}
+
+
+.navbar #advertisement {
+    border: 1px solid rgb(65, 63, 63);
+    height: 70px;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar #pub {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    color: #fff;
+    font-size: 10px;
+    float: left;
+}
+
+#subNavbar {
+    height: 25px;
+    background-color: #4c4c4c;
+}
+
+#subNavbar .logoType .brand {
+    left: 260px;
+}
+
+#subNavbar .search input {
+    background-color: #000000;
+    right: -200px;
+}

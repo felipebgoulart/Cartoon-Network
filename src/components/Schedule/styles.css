@@ -1,0 +1,153 @@
+.schedule {
+    width: 470px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 3px;
+    row-gap: 3px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-left: 50px;
+    opacity: 0.7;
+}
+
+.schedule:hover {
+    opacity: 1;
+}
+
+.schedule .hours {
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.schedule .hours:hover {
+    opacity: 1;
+}
+
+.schedule .hours.bgb {
+    background-color: #000000 !important;
+    color: #009ade; 
+    font-family: Cartoon Slam;
+}
+
+.schedule .hours.bgp {
+    background-color: #000000 !important;
+    color: #ec0080;
+    font-family: Cartoon Slam;
+}
+
+.schedule .hours.bgy {
+    background-color: #000000 !important;
+    color: #ffea00;
+    font-family: Cartoon Slam;
+}
+
+.schedule .bgdb {
+    background-color: #009ade !important;
+    color: #fff;
+    font-family: Cartoon Slam;
+}
+
+.schedule .bgdp {
+    background-color: #ec0080 !important;
+    color: #fff;
+    font-family: Cartoon Slam;
+}
+
+.schedule .bgdy {
+    background-color: #ffea00 !important;
+    color: #fff;
+    font-family: Cartoon Slam;
+}
+
+.schedule .blue {
+    background-color: #009ade;
+}
+
+.schedule .pink {
+    background-color: #ec0080;
+}
+
+.schedule .yellow {
+    background-color: #ffea00;
+}
+
+.schedule .nextDay {
+    height: 80px;
+    width: 80px;
+    border: none;
+    cursor: pointer;
+}
+
+#nxtDay:hover {
+    color: #000000;
+}
+
+#sideInfo {
+    background-color: #ffea00;
+    height: 420px;
+    width: 100%;
+}
+
+#sideInfo .card {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1px;
+    height: 100px;
+}
+
+#sideInfo.blue {
+    background-color: #009ade;
+}
+
+#sideInfo.pink{
+    background-color: #ec0080;
+}
+
+#sideInfo.yellow {
+    background-color: #ffea00;
+}
+
+#lines .hora {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    text-align: center;
+    font-size: 22px;
+}
+
+#lines img {
+    width: 100%;
+    height: 90px;
+    margin-top: 2px;
+}
+
+#lines .descricao {
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#lines:hover {
+    cursor: pointer;
+}
+
+#lines.blue:hover {
+    background-color: #83bbd3;
+}
+
+
+#lines.yellow:hover {
+    background-color: #faf4b6;
+}
+
+
+#lines.pink:hover {
+    background-color: #d6acc3;
+}
