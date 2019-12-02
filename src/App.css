@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    src: url(fonts/Cartoon\ Slam.ttf);
+    font-family: Cartoon Slam;
+}
+
 html, body {
     height: 100%;
     font-family: Cartoon Slam, whitney;
